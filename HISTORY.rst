@@ -3,6 +3,10 @@
 History
 -------
 
+0.5.4
+++++++++++++++++++
+* Fix incorrect werkzeug import
+
 0.5.3
 ++++++++++++++++++
 * Improve documentation. Thanks tpugsley and rcutmore for improvements!
